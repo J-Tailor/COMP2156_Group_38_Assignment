@@ -1,3 +1,0 @@
-This is my first GitHub file, Commit?
-Making changes to verify the commit status
-Another one
