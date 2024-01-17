@@ -1,4 +1,1 @@
-This is my third
-file in GitHub
-Let's see the commit status to see how many more times I'll have to edit this document :)
-DJ KHALED!!!
+Details about important of learning DevOps engineer in software development cycle
