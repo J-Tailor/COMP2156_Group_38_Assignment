@@ -1,1 +1,2 @@
 I learnt about github and commit and push
+i also learnt making branches and merging it.
